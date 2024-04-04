@@ -4,7 +4,7 @@
 ### Síntesis del proyecto: 
 
 
-El presente proyecto de investigación propone examinar el impacto de la reciente ola migratoria en Chile y el cómo esta ha afectado las dinámicas sociales del país. Si bien las olas migratorias al país no son un tema de los últimos años, sino que se ha desarrollado durante varias décadas, los últimos años ha experimentado un aumento significativo. Esto último ha provocado cambios en la composición demográfica y cultural de diversas regiones a lo largo del país. Nos interesa entender cómo esta migración ha influido en la sociedad chilena y cuales han sido las respuestas de la población local ante este fenómeno. 
+El presente proyecto de investigación propone examinar el impacto de la reciente ola migratoria en Chile y el cómo esta ha afectado las dinámicas sociales del país. Si bien las olas migratorias al país no son un tema de los últimos años, sino que se ha desarrollado durante varias décadas, recientemente ha experimentado un aumento significativo. Esto último ha provocado cambios en la composición demográfica y cultural de diversas regiones a lo largo del país. Nos interesa entender cómo esta migración ha influido en la sociedad chilena y cuales han sido las respuestas de la población local ante este fenómeno. 
 
 La migración hacia Chile ha sido un proceso constante, pero su reciente aumento ha despertado un interés renovado en comprender sus implicaciones en la sociedad. Se busca analizar cómo estos cambios han afectado las relaciones sociales, la identidad cultural y la cohesión comunitaria en diferentes áreas del país. Además, se pretende investigar las percepciones y actitudes de la población local hacia los migrantes y cómo estas han evolucionado con el tiempo.
 
