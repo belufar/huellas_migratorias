@@ -4,7 +4,7 @@ El siguiente repositorio contiene las entregas del proyecto relacionado al estud
 
 En la carpeta entregas hay una sub-carpeta con el nombre "Entrega_01", en la cual se encuentran los archivos relativos a dicha tarea.  
 
-[Link a presentación](LINK)
+[Link a presentación](https://www.canva.com/design/DAGBZkXf_PI/o6oqzLggaegF5y76Utkfag/edit?utm_content=DAGBZkXf_PI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Anelisse Lima: anelisse.lima@ucb.edu.bo
 - Belén Farías: b.fariasc@uc.cl
