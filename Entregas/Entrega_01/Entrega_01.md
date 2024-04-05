@@ -13,11 +13,11 @@ Este proyecto se sitúa en un contexto global de creciente movilidad humana y di
 
 ### Hipótesis:
 
-Nuestra pregunta de investigación parte de la base: **“¿Cómo ha influenciado la reciente ola migratoria las dinámicas sociales en Chile, y cuál ha sido la respuesta de la sociedad chilena ante este fenómeno?”¨**.
+**Hipótesis: La integración cultural de migrantes en Chile se ha visto afectada en los últimos años.**
 
-**Hipótesis: La reciente ola migratoria ha influenciado las dinámicas sociales en Chile.**
+Para resolver esta hipotesis trabajaremos con distintas preguntas de investigación como: **¿cómo se han agrupado en los últimos años demográfica y geográficamente los migrantes al rededor del país? ¿Ha cambiado la percepción de la población local hacia los migrantes en lo últimos años y de qué manera? ¿Cómo ha influenciado la reciente ola migratoria las dinámicas sociales en Chile, y cuál ha sido la respuesta de la sociedad chilena ante este fenómeno?**.
 
-Así, nuestra hipótesis busca demostrar que la reciente ola migratoria sí ha influenciado en las dinámicas sociales del país, afectando la percepción de la población local y generando cambios en las normas culturales y sociales establecidas. 
+Así, nuestra hipótesis busca demostrar que la reciente ola migratoria sí ha sufrido un cambio en su integración cultural dentro del país, afectando la percepción de la población local y generando cambios en las normas culturales y sociales establecidas. 
  
 
 ### Antecedentes:
