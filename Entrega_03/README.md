@@ -60,9 +60,6 @@ Además del identificador gráfico mencionado anteriormente, consideramos el uso
 - **Interés visual**: Los íconos hacen que la información sea más accesible y atractiva.
 - **Relevancia temática**: Cada ícono refuerza el tema central del proyecto, facilitando la comprensión del contenido por parte de los usuarios.
 
----
-
-En resumen, cada decisión tomada en la creación de la identidad visual de "Huellas Migratorias" fue cuidadosamente pensada para reflejar el tema de la migración y su impacto en la sociedad chilena, manteniendo una estética sobria, formal y atractiva para nuestro público objetivo.
 
 
 ## iii. Prototipado
