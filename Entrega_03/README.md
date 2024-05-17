@@ -7,10 +7,13 @@
 
 ## i. Perfilamiento de usuarios
 
+Se eligieron tres posibles usuarios cada uno familiar al contexto chileno. 
 
+1. El primer usuario, un ciudadano chileno adulto al que le interesa el tema de la migración en su país porque lo vive a diario en el ambiente laboral y social. Se preocupa y se interesa por la igualdad social y se involucra en movimientos contra la discriminación y xenofobia. Considera que la inmigración es beneficiosa para el país pero también es consciente de la manera en que esta ha afectado negativamente a Chile. Este usuario está comenzando su vida dulta por lo que muestra un mayor interés por estos temas coyunturales que rigen su país. Tambien busca la auto reflexión y considera cómo puede cambiar o en qué puede aportar para contribuir a la sociedad. 
 
-(AQUI TU PASO A PASO ANNIE :D)
+2. El segundo usuario es una persona extranjera que está considerando seriamente imigrar a Chile. Este usuario es joven y viene de un país latinoamericano con menos oportunidades laborales y de calidad de vida por lo que desea inmigrar con asperaciones a un futuro mejor tanto para él como para una futura familia. En este sentido, se dedica a investigar todo tipo de información necesaria para alistar su viaje es por eso que también le interesa saber cómo se perciben las personas de su nacionalidad en Chile y cuál es la reputación de su país en el extranjero para estar listo ante las diversas formas de discriminación o xenofobia.
 
+3. El tercer usuario está relacionado con un inmigrante que actualmente está viviendo en Chile. Se decidió que viviera en la región metropolitana de Santiago ya que ahí está el mayor movimiento económico y cantidad de puestos laborales para extranjeros. Este usuario es un adulto profesional y llegó a Chile a causa de una crisis política y/o económica en su país. Este usuario quiere trabajr y aportar al país pero le preocupan los temas de discriminación y xenofobia que cada vez se hacen más latentes en Chile. Busca e investiga diversas maneras de poder combatir esta problemática por lo que lee y le interesa todo tipo de articulo respecto a la migración. 
 
 
 ## ii. Creación de identidad visual
