@@ -36,27 +36,22 @@ Dado las nulas habilidades de sus servidoras respecto a diseño, decidimos hacer
 #### 3. Paleta de colores
 Se buscaba una tonalidad sobria, ya que el proyecto aborda una temática de carácter serio y formal. Por ello, optamos por el color azul marino y sus derivados.
 
-**Justificación:**
+Así utilizamos la herramienta [Coolors](https://coolors.co) para ver referentes y finalmente decidir. En el pdf con la información final de la Identidad Visual, se puede apreciar la imagen de la paleta. 
+
+Al obtener la paleta de colores buscadas, se buscó la significancia de cada uno, obteniendo una descripción deseable: 
+
 - **Azul Marino (#0D1B2A)**: Representa estabilidad y confianza.
 - **Gris Oscuro (#1B263B)**: Aporta sobriedad y elegancia.
 - **Gris Claro (#415A77)**: Añade un matiz adicional de sofisticación.
 - **Azul Claro (#778DA9)**: Ofrece un toque de frescura y modernidad.
 - **Blanco (#E0E1DD)**: Simboliza pureza y claridad.
 
-Así utilizamos la herramienta [Coolors](https://coolors.co) para ver referentes y finalmente decidir. En el pdf con la información final de la Identidad Visual, se puede apreciar la imagen de la paleta. 
 
 #### 4. Tipografía
-Se decidió utilizar **Roboto** para este proyecto.
-
-**Justificación:**
-- **Estilo moderno y profesional**: Se alinea perfectamente con la estética minimalista y formal del proyecto "Huellas Migratorias".
-- **Legibilidad y claridad**: Ofrece una excelente legibilidad y claridad en diferentes tamaños y resoluciones de pantalla, garantizando una experiencia de lectura cómoda para los usuarios adultos.
-- **Familiaridad**: Su amplia disponibilidad y reconocimiento en la web aseguran una familiaridad generalizada entre los usuarios, contribuyendo a una mejor comprensión del contenido y a una mayor coherencia visual en toda la webstory.
+Se decidió utilizar **Roboto** para este proyecto. Esta fuente nos otorgaba; la imagen de un estilo moderno y profesional; una buena legibilidad y claridad; y familiaridad (al ser un tipo de fuente presente en distintos sitios web).
 
 #### 5. Elementos Gráficos Adicionales
 Además del identificador gráfico mencionado anteriormente, consideramos el uso de íconos relacionados con la migración, como maletas, globos terráqueos o personas caminando, para agregar interés visual y ayudar a transmitir el mensaje de manera efectiva.
-
-**Justificación:**
 - **Interés visual**: Los íconos hacen que la información sea más accesible y atractiva.
 - **Relevancia temática**: Cada ícono refuerza el tema central del proyecto, facilitando la comprensión del contenido por parte de los usuarios.
 
@@ -67,3 +62,5 @@ Además del identificador gráfico mencionado anteriormente, consideramos el uso
 Para realizar el prototipo decidimos utilizar Canva. Dado que es una herramienta familiar y que contaba con plantillas de wireframe que resultaron fáciles de usar. 
 
 Se decidió un modelo en cascada simple. Decidimos optar por el minimalismo, dejando graficos junto a texto o imagenes enlazadas. Creemos que, sin necesidad de sobrecargar la página con enlaces e información, es mejor para atender a un tema de este calibre. Pues se entiende que es una tematica cargada y por lo mismo se opta por un diseño que apele a lo contrario; lo simple. 
+
+Se realiza el proceso tanto en una plantilla para computadores y otro en una plantilla para smartphone. Intentando seguir con la misma línea del formato de computadora. 
