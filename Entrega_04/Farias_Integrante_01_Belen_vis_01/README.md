@@ -43,7 +43,7 @@ Con eso el error se solucionó. Su comentario apuntaba a: "Leer el archivo utili
 
 8. Ocurren ciertos problemas, por ejemplo, que la visualización se veía con Arica y Parinacota en la parte de abajo del eje Y. Ante esto, se solicita a la IA que me ayude a generar exactamente el mismo código pero con los datos invertidos de arriba hacia abajo. Resulta ligeramente dificultoso pues supone cambiar desde el DataFrame. Sin embargo, se logra finalmente. Se logra generar png y html del gráfico. Se aprovecha de cambiar el color del gráfico para que cuadre con el código de color estipulado en la entrega anterior; azul marino. 
 
-8. Si algo aprendí en este proceso (y si es de utilidad para cualquiera que este leyendo esto en busca de guía) esque las tablas con "," y tildes requieren códigos específicos para que pandas/python puedan entenderlo. GPT sabrá ayudarlos si lo especifican. Adiconalmente, si trabajan en el archivo .ipynb en días distintos, puede que surjan errores, puede deberse a que deben volver a hacer el proceso de concectar su drive ('reproducir' el código de drive). 
+8. Si algo aprendí en este proceso (y si es de utilidad para cualquiera que este leyendo esto en busca de guía) esque las tablas con "," y tildes requieren códigos específicos para que pandas/python puedan entenderlo. GPT sabrá ayudarlos si lo especifican. Adiconalmente, si trabajan en el archivo .ipynb en días distintos, puede que surjan errores, puede deberse a que deben volver a hacer el proceso de concectar su drive ("reproducir" el código de drive). 
 
 
 
