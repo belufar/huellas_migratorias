@@ -1,4 +1,4 @@
-## **Análisis Crítico Belén Farías**
+## **Análisis Crítico: Belén Farías**
 
 **Aprendizajes:**
 Uno de los elementos más importantes para crear el wireframe fue entender las necesidades y expectativas de los usuarios, así como la lógica detrás de la estructura de la información. Utilizamos la herramienta Figma para diseñar el wireframe, lo que nos permitió colaborar de manera efectiva y tener una visión clara del proyecto en todo momento. Las características que más me gustaron de Figma fueron su facilidad de uso, la posibilidad de crear componentes reutilizables y la capacidad de trabajar en tiempo real con otros miembros del equipo.
