@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-a929cea761ff843df547081b597fe8fb"}, "mark": "bar", "encoding": {"tooltip": [{"field": "Pais", "type": "nominal"}, {"field": "Total", "type": "quantitative"}], "x": {"field": "Total", "type": "quantitative"}, "y": {"field": "Pais", "sort": "-x", "type": "nominal"}}, "height": {"step": 20}, "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-a929cea761ff843df547081b597fe8fb": [{"Pais": "Colombia", "Total": 2875528}, {"Pais": "Per\u00fa", "Total": 1542004}, {"Pais": "Brasil", "Total": 568058}, {"Pais": "Chile", "Total": 532715}, {"Pais": "Ecuador", "Total": 444778}, {"Pais": "Rep. Dominicana", "Total": 438380}, {"Pais": "Argentina", "Total": 164024}, {"Pais": "M\u00e9xico", "Total": 124041}, {"Pais": "Panam\u00e1", "Total": 113108}, {"Pais": "Uruguay", "Total": 58158}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
