@@ -1,14 +1,22 @@
 # README
 
-(video, presentación, info general entrega)
+En el siguiente README se encuentran los links a la presentación así como la autoría de lo que hizo cada integrante del grupo y su documentación de proceso respectiva. 
 
-Ponderador de Autoría
-La webstory debe ser el resultado de un trabajo en equipo, donde todos los integrantes del equipo participen en la creación de la webstory. Sin embargo, entendemos que no todos trabajarán en cada elemento de ella, por lo que deben indicar claramente en el README.md del encargo 05 quién trabajó en cada elemento de la webstory, pueden utilizar una tabla como la siguiente:
+[Link al video presentación](insertar link)
+[Link al pdf](insertar link)
 
-Elemento	Integrante 1	Integrante 2	Integrante 3
-A			
-B			
-C			
+
+Ponderador de Autoría:
+
+Belén Farías:
+    - Propuesta visualizaciones atomicas
+    - Decisiones elementos visuales
+    - código (index, style, script)
+
+Anelisse Lima:
+    -Analisis hipotesis 
+    -Propuesta diseño información
+    -Crónica
 
 
 
