@@ -1,0 +1,12 @@
+# PASO A PASO - Anelisse Lima
+
+1. Al investigar más a profundidad el tema de la migración en Chile, con mi compañera vimos pertinente e interesante analizar el fenómeno de migración venezolana durante los últimos años ya que es la nacionalidad con mayor índice de migración en todo el país. Lamentablemente no encontramos ninguna base de datos abierta en formato CSV. Solo encontramos una minuta población migrante de Venezuela en Chile de SERMIG con datos estadísticos que nos parecieron interesante. Estos datos ya estaban procesados entoces tuvimos que recopilar los datos en CSV manualmente. Optamos por elegir los datos de la distribución regional de las personas de Venezuela en Chile versus otras nacionalidades. 
+
+2. Al realizar la crónica también vi interesante recopilar datos sobre el ranking de países con mayor número de emigrantes procedentes de Venezuela a nivel Latinoamérica. En este caso tenía dos fuentes: Statista y la plataforma de coordinación interagencial para refugiados y migrantes de Venezuela. Una más actualizada que la otra. El Statista me tiraba a Chile como el quinto país mientra que la otra como el cuarto país. La segunda estaba más actualizada por lo que decidí fucionar ambas manualmente. 
+
+3. Para la visualización de regiones opté por un grouped bar chart. Ya que contaba con tres variables: región, venezuela y otras nacionalidades; quería que se viera explícitamente la diferencia entre la migración y de las demás nacionalidades lado a lado para que se entienda en algunos lugares la cantidad de venezolanos es incluso mayor que todas las nacionalidades juntas. Utilizando la ayuda de chat GPT y la ayuda de mi compañera logré la visualización. 
+
+4. Para la visualización de ranking de paises me decidí por un sorted bar chart ya que quería recalcar a Chile como el cuarto país con más migración venezolana en latinoamérica. Solamente contaba con dos variables: país y cantidad aproximada de migración venezolana. Utilizando la ayuda de chat GPT y la ayuda de mi compañera logré la visualización. 
+
+5. La visualización de regiones puede responder a preguntas como: ¿Cuál es la región con mayor porcentaje de migración venezolana?, ¿Cuál es la región con menor porcentaje de migración venezolana? 
+La visualización de países puede responder preguntas como: ¿cuáles son los países con mayor migración venezolana a nivel latinoamérica? 
