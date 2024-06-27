@@ -1,0 +1,243 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+h2 {
+   
+    font-family: 'Roboto Condensed', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700; 
+    font-style: normal; 
+
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300; 
+    font-style: normal; 
+
+}
+
+body {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    background-color: #E0E1DD;
+    color: #1B263B;
+}
+
+/*Alineación de textos robado de musica urbana*/
+.text-izq {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10%;
+    margin-left: 6%;
+}
+  
+.text-der {
+    float: right;
+    margin-top: 10px;
+    margin-right: 6%;
+    margin-left: 10%;
+}
+
+/*Alineación de imagenes y graficos*/
+.grafico-izq {
+    text-align: left;
+    margin: 0;
+    width: 900px;
+    height: 700px;
+    margin-left: 50px;
+  }
+  
+  .grafico-der {
+    text-align: right;
+    margin: 0;
+    width: 900px;
+    height: 700px;
+    margin-right: 50px;
+  }
+  
+  .contenedor-texto-grafico {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+  }
+  
+  .contenedor-texto{
+    background: #E0E1DD;
+    width: 100%;
+    float: left;
+    padding: 15px;
+    color: #1B263B;
+  }
+
+  .contenedor-texto,
+    .contenedor-grafico {
+  flex: 1;
+  /* Ambos ocupan el mismo espacio disponible */
+  /* Id secciones, fondos, margenes, etc... */
+}
+  /*hasta aquí robado de musica urbana*/
+
+header {
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header .logo {
+    max-width: 50px;
+    margin-right: 1em;
+}
+
+nav {
+    background-color: #1B263B;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: #E0E1DD;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    display: block;
+}
+
+main {
+    padding: 2em 5%;
+}
+
+section {
+    margin-bottom: 3em;
+    text-align: center;
+}
+
+h2 {
+    color: #0D1B2A;
+    margin-bottom: 1.5em;
+}
+
+
+.visualization {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.visualization img,
+.visualization iframe {
+    border: 0;
+    flex: 1;
+    height: 700px;  /* Ajusta la altura aquí */ 
+}
+
+.visualization .text-box {
+    flex: 1;
+    margin: 0 2%;
+    text-align: left;
+}
+
+.visualization.split {
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.visualization.split .text-box {
+    padding: 0;
+    margin: 0;
+}
+
+.visualization.centered {
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.visualization.centered iframe {
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.left-aligned {
+    text-align: left;
+    margin-left: 5%;
+}
+
+footer {
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.full-width {
+    width: 100%;
+    height: 800px; /* Aumenta la altura aquí */
+}
+
+.half-width {
+    width: 48%;
+    height: 800px; /* Aumenta la altura aquí */
+}
+
+.centered-width {
+    width: 30%;  /* Aumenta el ancho aquí */
+    height: 800px; /* Aumenta la altura aquí */
+    margin: 0 auto;
+}
+
+/* probando para los gif de huellas*/
+
+.gif-centro {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    width: 100%; /* O ajusta según el tamaño deseado */
+    height: 100%; /* O ajusta según el tamaño deseado */
+}
+
+.gif-centro img {
+    width: 25%; /* Ajusta el ancho del GIF */
+    height: auto; /* Mantiene la proporción */
+}
+
+.gif-izq {
+    width: 100%; /* Ajusta el ancho según necesites */
+    height: 100%; /* Ajusta la altura según necesites */
+    margin-left: 10px; /* Espacio a la izquierda */
+}
+
+.gif-izq img {
+    width: 25%; /* Ajusta el ancho del GIF */
+    height: auto; /* Mantiene la proporción */
+}
+
+.gif-der {
+    width: 100%; /* Ajusta el ancho según necesites */
+    height: 100%; /* Ajusta la altura según necesites */
+    margin-right: 50px; /* Espacio a la derecha */
+}
+
+.gif-der img {
+    width: 25%; /* Ajusta el ancho del GIF */
+    height: auto; /* Mantiene la proporción */
+}
