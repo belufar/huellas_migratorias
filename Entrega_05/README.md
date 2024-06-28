@@ -62,7 +62,7 @@ Resultó particularmente dificil entender cómo mover los gráficos de lugar, ag
     margin: 0 auto;
 }
 
--------------
+--------------
 
 Por consiguiente, decidí cambiar la fuente por una que no está por defecto y que tuve que instalar. Pero fue más fácil de lo que pensé. Bastó con ver un tutorial en Youtube. Simplemente había que ir a [Google Fonts](https://fonts.google.com/selection/embed) y allí de hecho te dan todos los códigos para importarla en un css. Con eso también aprendí a seleccionar un tipo de letra distinta para el title, el h1 y el p.  
 
