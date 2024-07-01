@@ -1,13 +1,15 @@
 # Análisis de la hipótesis inicial
 
 
-**Hipótesis: La integración cultural de migrantes en Chile se ha visto afectada en los últimos años.**
+**Hipótesis inicial: La integración cultural de migrantes en Chile se ha visto afectada en los últimos años.**
 
 Para resolver esta hipotesis decidimos arrancar con distintas preguntas de investigación como: **¿cómo se han agrupado en los últimos años demográfica y geográficamente los migrantes al rededor del país? ¿Ha cambiado la percepción de la población local hacia los migrantes en lo últimos años y de qué manera? ¿Cómo ha influenciado la reciente ola migratoria las dinámicas sociales en Chile, y cuál ha sido la respuesta de la sociedad chilena ante este fenómeno?**.
 
 Buscabamos demostrar que la reciente ola migratoria sí había sufrido un cambio en su integración cultural dentro del país, afectando la percepción de la población local y generando cambios en las normas culturales y sociales establecidas. 
 
-Sin embargo, aunque la hipotésis se ha mantenido igual, la perspectiva es distinta ya que no se considera principalmente la respuesta de la sociedad chilena, si no, la del migrante. Es decir, nuestro enfoque es desde la vivencia y realidad del migrante en Chile. Por lo tanto, las preguntas de investigación si cambiaron en el proceso:
+**Hipótesis actual: La inserción social de los migrantes que llegan a Chile se ve amenazada por el contexto social chileno**
+
+Después de hacer una gran recopilación de datos se optó por cambiar la hipótesis para el beneficio de la historia que se quería contar. La perspectiva inicial era distinta ya que se consideraba principalmente la respuesta de la sociedad chilena ante la migración y no la del migrante en sí. Ahora, nuestro enfoque es desde las expectativas y la realidad del migrante en Chile en el ámbito social. Por lo tanto, las preguntas de investigación si cambiaron en el proceso:
 
 **¿cómo se han agrupado en los últimos años demográfica y geográficamente los migrantes al rededor del país? ¿Porqué las personas deciden dejar su país de origen? ¿Porqué migran a Chile? ¿Cómo ha influenciado la reciente ola migratoria las dinámicas sociales en Chile? ¿Cuál es la realidad del migrante en Chile?**.
 
