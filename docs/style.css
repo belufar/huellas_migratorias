@@ -41,7 +41,7 @@ body {
     margin-left: 10%;
 }
 
-/*Alineación de imagenes y graficos*/
+/*Alineación de imagenes y graficos a*/
 .grafico-izq {
     text-align: left;
     margin: 0;
@@ -79,6 +79,7 @@ body {
   /* Ambos ocupan el mismo espacio disponible */
   /* Id secciones, fondos, margenes, etc... */
 }
+
   /*hasta aquí robado de musica urbana*/
 
 header {
