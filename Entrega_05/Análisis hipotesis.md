@@ -15,7 +15,7 @@ Después de hacer una gran recopilación de datos se optó por cambiar la hipót
 
 ## Titular - HUELLAS MIGRATORIAS
 
-Este titular fue elegido porque evoca imágenes visuales. La palabra "huellas" sugiere algo dejado atrás o marcado por alguien o algo que ha pasado por un lugar. Esto puede evocar la imagen de rastros dejados en el suelo, en la cultura, o en la memoria colectiva, relacionados con el fenómeno migratorio. La palabra "migratorias" implica movimiento y cambio de ubicación, lo cual es central en el concepto de migración. Esta palabra subraya la idea de que las personas y las culturas no están estáticas, sino que se mueven y cambian a lo largo del tiempo. Este  titular es evocativo, sugiere movimiento y cambio, y permite múltiples interpretaciones que pueden resonar con diferentes aspectos del fenómeno migratorio.
+Este titular fue elegido porque evoca imágenes visuales. La palabra "huellas" sugiere algo dejado atrás o marcado por alguien o algo que ha pasado por un lugar. Esto puede evocar la imagen de rastros dejados en el suelo, en la cultura, o en la memoria colectiva, relacionados con el fenómeno migratorio. La palabra "migratorias" implica movimiento y cambio de ubicación, lo cual es central en el concepto de migración. Esta palabra subraya la idea de que las personas y las culturas no están estáticas, sino que se mueven y cambian a lo largo del tiempo, aparte de expresar la idea de un viaje, un recorrido, un trayecto. El viaje de un migrante a Chile y una vez que llega a Chile. Este  titular es evocativo, sugiere movimiento y cambio, y permite múltiples interpretaciones que pueden resonar con diferentes aspectos del fenómeno migratorio.
 
 
 

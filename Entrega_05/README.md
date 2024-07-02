@@ -73,3 +73,15 @@ Además, cree gifs de huellas para darle un cierto dinamismo a la lectura. Los c
 El resto fue ir afinando detalles, bordes, nombres. Y el esqueleto quedó más armado :) 
 
 #### PD: Algo que aprendí y no recuerdo haberlo escuchado en clases, fue cuando noté que el logo no me cargaba a pesar de estar correctamente enrutado. Gracias a Youtube noté que era porque al escribir la ruta, si estas enlazando algo que está en la misma carpeta que tu index, a veces poner un . delante de la ruta, hace toda la diferencia, por ejemplo: ./imagenes/logo.png (lo mismo me sirvió para los gráficos, pues no se veían hasta que puse el punto). 
+
+# Documentación de proceso: Anelisse Lima 
+
+Comezamos por hacer una base de datos que fue el corazón y la fuente de una historia que salió a la luz al momento de analizar los datos. Nos dimos cuenta que era más interesante contar la historia desde el punto de vista del migrante que desde el punto de vista chileno. Los datos nos hablaban del migrante como tal entonces decidimos escuchar su historia. De esta manera el camino del migrante se hacia cada vez más claro por lo que, al igual que el nombre del proyecto, seguimos esas huellas migratorias para llegar al presente resultado. 
+
+Después de que mi compañera me sugiera el hilo de la historia que queriamos contar, empecé a investigar más a fondo las bases de datos elegidas, a buscar más contexto así como otros datos que podrían ser útiles al momento de escribir la crónica. 
+
+Para este trabajo decidimos dividir el trabajo. Belén se dedicaría a trabajar la parte visual y estética del proyecto y yo en el contenido de la crónica. Nos dividimos equitativamente los gráficos y visualizaciones de la crónica, cada una eligiendo un formato de acuerdo a lo que nos pareciera mejor. En mi caso elegí graficos de barras y de círculos para que los datos se entendieran de mejor manera.
+
+Por otro lado, después de las observaciones de la profe resolví por cambiar la hipótesis para que nuestra narrativa de elección sea coherente con el la historia que queríamos contar: el camino del migrante a Chile, sus expectativas antes de llegar y la realidad con la que se encuentran. 
+
+En este sentido decidí poner de lado el tema del fenómeno venezolano migratorio y enfocarme más en la realidad laboral que es uno de los motivos por los que la mayoría de las personas decide migrar a Chile. Fue más que todo una decisión de coherencia de la historia. Mientras escribía la crónica podía ver su relevancia e importancia ya que son temas de los que no se habla como se debería. La migración esta muy idealizada y tocaba darle un toque de realidad.
