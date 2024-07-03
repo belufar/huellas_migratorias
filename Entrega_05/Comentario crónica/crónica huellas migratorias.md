@@ -1,6 +1,6 @@
 # Huellas migratorias
 
-En las calles de Chile, un fenómeno transformador se está gestando silenciosamente: la migración. Con cada paso que se da en el país, el rostro de las ciudades y pueblos chilenos está evolucionando. El bullicio se mezcla con acentos internacionales, recordando a los chilenos que su nación es ahora un crisol de identidades.
+En las calles de Chile, un fenómeno transformador se gestó silenciosamente hasta que todos tuvimos que voltear: la migración. Con cada paso que se da en el país, el rostro de las ciudades y pueblos chilenos está evolucionando. El bullicio se mezcla con acentos internacionales, recordando a los chilenos que su nación es ahora un crisol de identidades.
 Detrás de cada migrante hay un viaje, a menudo marcado por dificultades y decisiones difíciles. Desde Venezuela hasta Haití, miles han cruzado fronteras y océanos en busca de oportunidades que sus países de origen no pueden ofrecer. Sin embargo, las expectativas con las que llegan se ven amenazadas con la realidad de todo migrante latinoamericano en Chile.
 
 ## Razón para dejar el país de origen- Dejando Raíces, Forjando Caminos 

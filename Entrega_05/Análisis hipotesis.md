@@ -7,7 +7,7 @@ Para resolver esta hipotesis decidimos arrancar con distintas preguntas de inves
 
 Buscabamos demostrar que la reciente ola migratoria sí había sufrido un cambio en su integración cultural dentro del país, afectando la percepción de la población local y generando cambios en las normas culturales y sociales establecidas. 
 
-**Hipótesis actual: La inserción social de los migrantes que llegan a Chile se ve amenazada por el contexto social chileno**
+### **Hipótesis actual: La inserción social de los migrantes que llegan a Chile se ve amenazada por el contexto social chileno**
 
 Después de hacer una gran recopilación de datos se optó por cambiar la hipótesis para el beneficio de la historia que se quería contar. La perspectiva inicial era distinta ya que se consideraba principalmente la respuesta de la sociedad chilena ante la migración y no la del migrante en sí. Ahora, nuestro enfoque es desde las expectativas y la realidad del migrante en Chile en el ámbito social. Por lo tanto, las preguntas de investigación si cambiaron en el proceso:
 
