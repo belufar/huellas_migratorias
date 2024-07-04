@@ -249,3 +249,8 @@ footer{
     width: 25%; /* Ajusta el ancho del GIF */
     height: auto; /* Mantiene la proporción */
 }
+
+.chart-familiarity {
+    width: 100%;
+    height: 400px;
+  }
