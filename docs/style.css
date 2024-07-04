@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
-h2 {
+h2{
    
     font-family: 'Roboto Condensed', sans-serif;
     font-optical-sizing: auto;
@@ -10,7 +10,7 @@ h2 {
 
 }
 
-p {
+p{
     font-family: 'Roboto Condensed', sans-serif;
     font-optical-sizing: auto;
     font-weight: 300; 
@@ -18,7 +18,7 @@ p {
 
 }
 
-body {
+body{
     font-family: 'Roboto';
     margin: 0;
     padding: 0;
@@ -28,42 +28,40 @@ body {
 
 /*probando para cambiar el logo de ubicacion y tamaño*/
 
-
+#experiencias{
+    margin: 0 auto;
+    width: 80%;
+}
 
 
 /*Alineación de textos robado de musica urbana*/
-.text-izq {
+.text-izq{
     float: left;
-    margin-top: 10px;
-    margin-right: 10%;
-    margin-left: 6%;
+    width: 30%;
+    margin: 0 5%;
 }
   
-.text-der {
+.text-der{
     float: right;
-    margin-top: 10px;
-    margin-right: 6%;
-    margin-left: 10%;
+    width: 30%;
+    margin: 0 2%;
+    text-align: left;
 }
 
 /*Alineación de imagenes y graficos a*/
-.grafico-izq {
-    text-align: left;
-    margin: 0;
-    width: 900px;
-    height: 700px;
-    margin-left: 50px;
+.grafico-izq{
+    float: left;
+    width: 60%;
+    margin: 0 20px;
   }
   
-  .grafico-der {
-    text-align: right;
-    margin: 0;
-    width: 900px;
-    height: 700px;
-    margin-right: 50px;
+.grafico-der{
+    float: left;
+    width: 40%;
+    margin: 0 80px;
   }
   
-  .contenedor-texto-grafico {
+  .contenedor-texto-grafico{
     display: flex;
     align-items: center;
     width: 400px;
@@ -79,7 +77,7 @@ body {
   }
 
   .contenedor-texto,
-    .contenedor-grafico {
+    .contenedor-grafico{
   flex: 1;
   /* Ambos ocupan el mismo espacio disponible */
   /* Id secciones, fondos, margenes, etc... */
@@ -87,62 +85,62 @@ body {
 
   /*hasta aquí robado de musica urbana*/
 
-header {
+header{
     background-color: #0D1B2A;
     color: #E0E1DD;
     padding: 1em;
     text-align: center;
 }
 
-header .logo {
+header .logo{
     display: block; /* Asegura que la imagen se muestre como un bloque */
     margin: 0 auto; /* Centra la imagen horizontalmente */
     width: 150px; /* Ajusta el tamaño según lo necesites */
     height: auto;
 }
 
-header h1 {
+header h1{
     margin-top: 20px; /* Añade un margen superior para separar el título del logo */
 }
 
-nav {
+nav{
     background-color: #1B263B;
 }
 
-nav ul {
+nav ul{
     list-style: none;
     padding: 0;
     display: flex;
     justify-content: center;
 }
 
-nav ul li {
+nav ul li{
     margin: 0 1em;
 }
 
-nav ul li a {
+nav ul li a{
     color: #E0E1DD;
     text-decoration: none;
     padding: 0.5em 1em;
     display: block;
 }
 
-main {
+main{
     padding: 2em 5%;
 }
 
-section {
+section{
     margin-bottom: 3em;
     text-align: center;
 }
 
-h2 {
+h2{
     color: #0D1B2A;
     margin-bottom: 1.5em;
 }
 
 
-.visualization {
+.visualization{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -150,46 +148,46 @@ h2 {
 }
 
 .visualization img,
-.visualization iframe {
+.visualization iframe{
     border: 0;
     flex: 1;
     height: 700px;  /* Ajusta la altura aquí */ 
 }
 
-.visualization .text-box {
+.visualization .text-box{
     flex: 1;
     margin: 0 2%;
     text-align: left;
 }
 
-.visualization.split {
+.visualization.split{
     flex-direction: row;
     align-items: flex-start;
 }
 
-.visualization.split .text-box {
+.visualization.split .text-box{
     padding: 0;
     margin: 0;
 }
 
-.visualization.centered {
+.visualization.centered{
     width: 100%;
     height: 800px;
     margin: 0 auto;
 }
 
-.visualization.centered iframe {
+.visualization.centered iframe{
     width: 100%;
     height: 800px;
     margin: 0 auto;
 }
 
-.left-aligned {
+.left-aligned{
     text-align: left;
     margin-left: 5%;
 }
 
-footer {
+footer{
     background-color: #0D1B2A;
     color: #E0E1DD;
     text-align: center;
@@ -199,17 +197,17 @@ footer {
     bottom: 0;
 }
 
-.full-width {
+.full-width{
     width: 100%;
     height: 800px; /* Aumenta la altura aquí */
 }
 
-.half-width {
+.half-width{
     width: 48%;
     height: 800px; /* Aumenta la altura aquí */
 }
 
-.centered-width {
+.centered-width{
     width: 30%;  /* Aumenta el ancho aquí */
     height: 800px; /* Aumenta la altura aquí */
     margin: 0 auto;
@@ -217,7 +215,7 @@ footer {
 
 /* probando para los gif de huellas*/
 
-.gif-centro {
+.gif-centro{
     display: flex;
     justify-content: center; /* Centra horizontalmente el contenido */
     align-items: center; /* Centra verticalmente el contenido */
@@ -225,29 +223,29 @@ footer {
     height: 100%; /* O ajusta según el tamaño deseado */
 }
 
-.gif-centro img {
+.gif-centro img{
     width: 25%; /* Ajusta el ancho del GIF */
     height: auto; /* Mantiene la proporción */
 }
 
-.gif-izq {
+.gif-izq{
     width: 100%; /* Ajusta el ancho según necesites */
     height: 100%; /* Ajusta la altura según necesites */
     margin-left: 10px; /* Espacio a la izquierda */
 }
 
-.gif-izq img {
+.gif-izq img{
     width: 25%; /* Ajusta el ancho del GIF */
     height: auto; /* Mantiene la proporción */
 }
 
-.gif-der {
+.gif-der{
     width: 100%; /* Ajusta el ancho según necesites */
     height: 100%; /* Ajusta la altura según necesites */
     margin-right: 50px; /* Espacio a la derecha */
 }
 
-.gif-der img {
+.gif-der img{
     width: 25%; /* Ajusta el ancho del GIF */
     height: auto; /* Mantiene la proporción */
 }
