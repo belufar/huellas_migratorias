@@ -2,7 +2,7 @@
 
 En el siguiente README se encuentran los links a la presentación así como la autoría de lo que hizo cada integrante del grupo y su documentación de proceso respectiva. 
 
-- [Link al video presentación](insertar link)
+- [Link al video presentación](https://youtu.be/-RcVBc583zs)
 
 - [Link al pdf](https://www.canva.com/design/DAGICsxSowA/hutcSq29qzCFaKQiG0oqIw/edit?utm_content=DAGICsxSowA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
