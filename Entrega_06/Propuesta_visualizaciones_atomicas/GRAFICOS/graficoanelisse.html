@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-99ff1ce7f1faabf6cf14c7ece0c26b9f"}, "mark": "bar", "background": "#E0E1DD", "encoding": {"color": {"field": "Raz\u00f3n para dejar pa\u00eds de origen", "type": "nominal"}, "x": {"field": "Cantidad", "type": "quantitative"}, "y": {"field": "Pa\u00eds", "sort": ["Bolivia", "Colombia", "Hait\u00ed", "Per\u00fa", "Venezuela", "Otros", "Total"], "type": "nominal"}}, "height": 400, "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-99ff1ce7f1faabf6cf14c7ece0c26b9f": [{"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Bolivia", "Cantidad": 51}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Bolivia", "Cantidad": 19}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Bolivia", "Cantidad": 12}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Bolivia", "Cantidad": 2}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Colombia", "Cantidad": 38}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Colombia", "Cantidad": 25}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Colombia", "Cantidad": 12}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Colombia", "Cantidad": 9}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Hait\u00ed", "Cantidad": 36}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Hait\u00ed", "Cantidad": 24}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Hait\u00ed", "Cantidad": 4}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Hait\u00ed", "Cantidad": 20}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Per\u00fa", "Cantidad": 45}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Per\u00fa", "Cantidad": 15}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Per\u00fa", "Cantidad": 20}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Per\u00fa", "Cantidad": 1}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Venezuela", "Cantidad": 12}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Venezuela", "Cantidad": 49}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Venezuela", "Cantidad": 4}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Venezuela", "Cantidad": 14}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Otros", "Cantidad": 28}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Otros", "Cantidad": 17}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Otros", "Cantidad": 21}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Otros", "Cantidad": 4}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Falta de oportunidades laborales", "Pa\u00eds": "Total", "Cantidad": 26}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Cr\u00edsis econ\u00f3mica del pa\u00eds", "Pa\u00eds": "Total", "Cantidad": 34}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Motivos Familiares", "Pa\u00eds": "Total", "Cantidad": 9}, {"Raz\u00f3n para dejar pa\u00eds de origen": "Incremento del crimen, violencia e inseguridad", "Pa\u00eds": "Total", "Cantidad": 12}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -4,5 +4,7 @@ El siguiente repositorio contiene las entregas del proyecto relacionado al estud
 
 Cada entrega relacionada al proyecto cuenta con su respectiva carpeta, donde se encontrará su README correspondiente con todos los datos generales y links respectivos. 
 
+[PAGINA WEB HUELLAS MIGRATORIAS](https://belufar.github.io/huellas_migratorias/)
+
 - Anelisse Lima: anelisse.lima@ucb.edu.bo
 - Belén Farías: b.fariasc@uc.cl
