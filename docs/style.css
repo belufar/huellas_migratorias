@@ -252,5 +252,12 @@ footer{
 
 .chart-familiarity {
     width: 100%;
-    height: 400px;
+    height: 480px;
+    margin: 0 auto;
+    border: none;
   }
+
+.clear-both {
+    clear: both;
+}
+

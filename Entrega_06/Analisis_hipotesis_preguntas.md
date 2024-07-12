@@ -1,5 +1,8 @@
 # Analisis - Hipotesis - Preguntas
 
+**Hipótesis inicial: La integración cultural de migrantes en Chile se ha visto afectada en los últimos años.**
+
+Para resolver esta hipotesis decidimos arrancar con distintas preguntas de investigación como: **¿cómo se han agrupado en los últimos años demográfica y geográficamente los migrantes al rededor del país? ¿Ha cambiado la percepción de la población local hacia los migrantes en lo últimos años y de qué manera? ¿Cómo ha influenciado la reciente ola migratoria las dinámicas sociales en Chile, y cuál ha sido la respuesta de la sociedad chilena ante este fenómeno?**.
 
 ### **Hipótesis: La inserción social de los migrantes que llegan a Chile se ve amenazada por el contexto social chileno**
 
